@@ -6,7 +6,10 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>Programación Web Avanzada. Prueba 1</p>
+        <img src="https://i.gifer.com/1pNZ.gif" alt="logo" />
+        <p>
+          Programación Web Avanzada. <strong>Prueba 2</strong>
+        </p>
       </header>
     </div>
   );
